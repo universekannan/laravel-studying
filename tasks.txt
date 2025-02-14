@@ -1,0 +1,11 @@
+select admission_no,dob,full_name from student where status='Onroll';
+
+date("Y-m-d",strtotime(date(Y-m-d) -10 year"));
+
+ping erp.nalavariyam.com
+
+shreesrccustomercare1@gmail.com
+12345689
+
+define ('SITE_ROOT', realpath(dirname(__FILE__)));
+move_uploaded_file($_FILES['file']['tmp_name'], SITE_ROOT.'/static/images/slides/1/1.jpg');

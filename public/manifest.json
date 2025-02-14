@@ -1,0 +1,17 @@
+{
+    "name": "Adline School",
+    "short_name": "Adline",
+    "start_url": "/",
+    "background_color": "#6777ef",
+    "description": "Adline School",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
