@@ -8,8 +8,7 @@
             </div>
             <div class="col-sm-6">
                 <ol class="breadcrumb float-sm-right">
-                    <li class="breadcrumb-item"><button type="button" class="btn btn-block btn-primary btn-sm"
-                        data-toggle="modal" data-target="#addmember" ><i class="fa fa-plus"> Add </i></button>
+                    <li class="breadcrumb-item"><button type="button" class="btn btn-block btn-primary btn-sm" data-toggle="modal" data-target="#addmember" ><i class="fa fa-plus"> Add </i></button>
                     </li>
                 </ol>
             </div>
